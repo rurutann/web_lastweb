@@ -1,0 +1,9 @@
+# node_modules をGit管理しない
+node_modules/
+
+# ビルド結果（必要なら）
+dist/
+
+# OS・エディタ系
+.DS_Store
+.vscode/
